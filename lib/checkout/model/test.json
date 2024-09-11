@@ -1,0 +1,9 @@
+{
+  customer: Customer{
+  firstName: Anthony,
+  lastName: Gibah,
+  email: gibatekpro@gmail.com
+},
+shippingAddress: Address{
+city: London, country: Canada, state: Quebec, street: No. 5, zipCode: 555}, billingAddress: Address{city: London, country: Turkey, state: BartÄ±n, street: No. 5, zipCode: 555}, order: Order{totalQuantity: 3, totalPrice: 55.97}, orderItems: [OrderItem{imageUrl: assets/images/products/books/book-luv2code-1005.png, quantity: 1, unitPrice: 23.99, productId: 6}, OrderItem{imageUrl: assets/images/products/books/book-luv2code-1006.png, quantity: 1, unitPrice: 14.99, productId: 7}, OrderItem{imageUrl: assets/images/products/books/book-luv2code-1007.png, quantity: 1, unitPrice: 16.99, productId: 8}]
+}
